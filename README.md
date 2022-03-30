@@ -113,5 +113,9 @@ lacks several features that would be helpful for building and testing
 models. If you need to modify existing mechanical models, I suggest
 importing `.iges` models into your preferred CAD program.
 
+* IGES models should be saved as solids (type 186), rather than as surfaces
+(type 144). Surfaces are the default, but solids can have additional
+operations performed on them after import (especially boolean operations).
+
 
 _This is the end of the file._

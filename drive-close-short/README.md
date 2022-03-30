@@ -11,8 +11,8 @@ pain to use, and it turned out that NeuroNexus probes can be held by the
 clips Kevin provided to us (albeit at risk of metal fatigue). So, only the
 "tungsten" arms are needed with this design.
 
-This design with tungsten, with NeuroNexus probes, and with Diagnostic
-BioChip probes, with appropriate cable holders.
+This design can work with tungsten, NeuroNexus, and Diagnostic BioChip
+probes, with appropriate cable holders.
 
 
 ## Notes
