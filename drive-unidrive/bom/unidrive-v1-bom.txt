@@ -1,0 +1,8 @@
+Parts for the v1 release candidate Unidrive:
+
+(1x)  2" #0-80 threaded rod 316 stainless (mmc 90575A116)
+(2x)  #0-80 screw 3/16" pan phillips 18-8 ss (mmc 91772A054)
+(2x)  #0-80 screw 1/4" flat phillips 18-8 ss (mmc 91771A055)
+(2x)  #0-80 screw 3/8" flat phillips 18-8 ss (mmc 91771A057)
+(3x)  #2-65 screw 1-1/2" socket 18-8 ss (mmc 92196A087))
+(2x)  #0-80 set screw 3/32" cup point 18-8 ss (mmc 92311A051)

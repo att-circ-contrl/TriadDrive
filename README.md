@@ -32,9 +32,11 @@ Under vendor copyright.
 
 Sub-folders in `drive-XXX` and `aux-XXX`:
 
+* `bom` -- List of vendor-supplied parts needed.
 * `cad` -- Mechanical design CAD files. These are in FreeCAD format.
 * `cad-ext` -- Mechanical design CAD or IGES files imported from a different
 folder or provided by external sources (usually Isaac).
+* `datasheets` -- Vendor-supplied mechanical drawings and component information.
 * `drawings` -- Mechanical drawings of various components.
 * `iges` -- Exported mechanical designs in IGES format.
 * `meshes` -- Exported solid models in STL format.
@@ -86,6 +88,13 @@ the "v2b" drive, and the "narrow" variant mates with stock drive bodies.
 * `aux-dbc-mounts` -- This folder contains cable mounts that replace the
 mounting clip of a narrow-body (stock) Triad drive, and that hold up to
 three Diagnostic BioChip probe boards with room for ZIF clips to attach.
+
+
+Drives not directly tied to the Triad Drive lineage:
+
+* `drive-unidrive` -- This is a proof-of-concept single-probe drive based
+on the same principles as the Triad drive but designed to be easier to
+manufacture.
 
 
 ## Remarks
