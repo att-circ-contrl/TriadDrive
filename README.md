@@ -44,6 +44,50 @@ folder or provided by external sources (usually Isaac).
 * `renders` -- Screenshots of CAD views of various mechanical assemblies.
 
 
+## Specific Designs
+
+The lineage of Triad drive variants is as follows:
+
+* `drive-kevin` -- This is the initial Triad drive designed by Kevin for
+the Womelsdorf lab. There were two variants: the "old" variant had a 45mm
+long channel and the "new" variant had a 55mm long channel.
+
+* `drive-v2b` -- This is a long-reach drive design intended for widely-spaced
+Atlas probes. This design is obsolete but the "body" part and "rod" parts
+are used by subsequent designs.
+
+* `drive-v2c` -- This is a short-reach design originally intended to mount
+Atlas probes in a widely-spaced pattern. This design is obsolete.
+
+* `drive-close-short` -- This is a short-reach design with closely-spaced
+probe sites. This drive is in service (with Kevin-style clips; the M0.5
+screw-mount arms are obsolete). This can hold tungsten probes, NeuroNexus
+probes, and Diagnostic BioChip probes (but not Atlas probes).
+
+* `drive-close-long` -- This is a long-reach drive with closely-spaced
+probe sites. This drive is in service. It is intended to hold Atlas probes
+using the same "rod" scheme as the "v2b" drive.
+
+
+Relevant auxiliary components are as follows:
+
+* `aux-probes` -- This folder contains CAD models of probes and CAD models
+of printable components for making mechanical mock-ups of probes.
+
+* `aux-clips` -- This folder contains CAD models of clips used to hold
+probes and guide tubes. Some are compatible with Kevin-style clip mounts,
+while others are intended for different mounting methods.
+
+* `aux-hflex-mounts` -- This folder contains cable mounts that replace the
+mounting clip of the Triad drive, and that hold up to three "heavy flex"
+analog signal cables. The "wide" variant mates with the wider body used by
+the "v2b" drive, and the "narrow" variant mates with stock drive bodies.
+
+* `aux-dbc-mounts` -- This folder contains cable mounts that replace the
+mounting clip of a narrow-body (stock) Triad drive, and that hold up to
+three Diagnostic BioChip probe boards with room for ZIF clips to attach.
+
+
 ## Remarks
 
 * I've been repeatedly reassured that the Womelsdorf Lab owns all of the IP
