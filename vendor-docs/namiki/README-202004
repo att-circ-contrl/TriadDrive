@@ -1,0 +1,13 @@
+Kevin used the SBL04 motors from Namiki for the Triad drives.
+These are no longer manufactured. He has a small number of spares.
+The datasheet is for the SBL07 through SBL12 motors.
+These are three-phase stepper motors, it looks like.
+
+Update:
+Kevin says they're brushless DC motors, not steppers. The UVW inputs take
+sine waves 120 degrees out of phase from each other, with the phase order
+determining the motor directions, at +/- 3V.
+
+Update again:
+He didn't use the "04" motors; those are 4mm diameter. The ones in the
+drives are 7mm.

@@ -1,0 +1,18 @@
+They're now "Adamant-Namiki", and are selling the 7mm motor and reduction
+gears that Kevin used again.
+
+https://www.ad-na.com/en/product/dccorelessmotor/
+
+The motor is BMN07-1207 (12mm long, 7 ohms resistance).
+The reduction gear is SPG07-105 (105x reduction; this is 12mm long).
+Kevin did not go for the encoder add-on (that'd be another 6-7 mm long).
+
+The planetary gear's output shaft is 1.5mm diameter with a D profile.
+
+Kevin made the screw side of the coupler by cutting a slot in a 4mm diameter
+#0-80 threaded stand-off (or milling and tapping 4mm stock).
+
+Kevin made the motor side of the coupler by cutting a length of brass or
+bronze bar stock, drilling a 1.5mm hole axially, and then using a punch to
+crimp it on to the flat part of the shaft (there's a circular depression
+where he did this).

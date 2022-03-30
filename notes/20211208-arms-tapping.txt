@@ -1,0 +1,23 @@
+To tap 3d printed plastic arms without damage:
+
+- Use the 3/64" (#0 tap) drill to widen the holes.
+- Start tapping. As soon as there's resistance, _stop_ and back out.
+- Use canned air to clean the tap and clear the hole.
+- Resume tapping. As soon as there's resistance, _stop_ and back out.
+- Repeat the above steps until the hole is fully tapped.
+- Clean the tap and clear the hole, and then run the tap through the hole
+  again for a finishing pass.
+- Clean the tap and clear the hole, and use a #0-80 screw to test the hole.
+  The screw should engage easily with no resistance at any point.
+
+Tapping too aggressively does the following:
+
+- The side-walls bulge out. Best-case they'll need to be filed down, and
+  in the worst case they'll break (prints are weak and walls are thin).
+- The side-walls will apply pressure, squeezing the screw. This will cause
+  the arm to get stuck on the drive screw.
+
+.. The procedure outlined above will eliminate these problems.
+
+It's a good idea to use a similar procedure with harder materials, too. It's
+also important to back out and break chips when working with, e.g., PEEK.
