@@ -80,14 +80,10 @@ of printable components for making mechanical mock-ups of probes.
 probes and guide tubes. Some are compatible with Kevin-style clip mounts,
 while others are intended for different mounting methods.
 
-* `aux-hflex-mounts` -- This folder contains cable mounts that replace the
-mounting clip of the Triad drive, and that hold up to three "heavy flex"
-analog signal cables. The "wide" variant mates with the wider body used by
-the "v2b" drive, and the "narrow" variant mates with stock drive bodies.
-
-* `aux-dbc-mounts` -- This folder contains cable mounts that replace the
-mounting clip of a narrow-body (stock) Triad drive, and that hold up to
-three Diagnostic BioChip probe boards with room for ZIF clips to attach.
+* `aux-cable-mounts` -- This folder contains cable mounts that replace the
+mounting clip of the Triad drive. These either hold "heavy flex" analog
+signal cables or probe-specific adapter boards (such as the DBC ZIF-clip
+boards).
 
 
 Drives not directly tied to the Triad Drive lineage:
