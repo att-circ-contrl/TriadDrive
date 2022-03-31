@@ -97,6 +97,12 @@ on the same principles as the Triad drive but designed to be easier to
 manufacture.
 
 
+Obsolete auxiliary components:
+
+* `aux-drive-mounts-2021` -- These were replacement parts for clamps used
+when mounting the posts that mount the Triad drives.
+
+
 ## Remarks
 
 * I've been repeatedly reassured that the Womelsdorf Lab owns all of the IP
