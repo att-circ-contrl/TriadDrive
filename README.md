@@ -74,6 +74,9 @@ mounting clip of the Triad drive. These either hold "heavy flex" analog
 signal cables or probe-specific adapter boards (such as the DBC ZIF-clip
 boards).
 
+* `aux-cabling` -- This folder contains documentation and models for
+cables and connectors that the Triad drives and probes interface with.
+
 * `aux-clips` -- This folder contains CAD models of clips used to hold
 probes and guide tubes. Some are compatible with Kevin-style clip mounts,
 while others are intended for different mounting methods.
