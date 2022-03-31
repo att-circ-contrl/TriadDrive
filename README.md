@@ -25,8 +25,7 @@ Top-level folders:
 * `aux-XXX` -- CAD files and notes specific to a given auxiliary tool.
 * `drive-XXX` -- CAD files and notes specific to a given drive variant.
 * `notes` -- Assorted notes that apply to several different devices.
-* `obsolete` -- `aux`, `drive`, and other folders with devices or
-specifications that are no longer in service.
+* `obsolete` -- Devices and specifications that are no longer in service.
 * `procedures` -- Assorted SOPs that apply to several different devices.
 * `reference` -- Assorted reference material that isn't vendor documentation.
 * `vendor-docs` -- Vendor-provided documentation and datasheets.
@@ -58,15 +57,6 @@ This is the initial Triad drive designed by Kevin for the Womelsdorf lab.
 There were two variants: the "old" variant had a 45mm long channel for the
 arms and the "new" variant had a 55mm long channel.
 
-* `obsolete/drive-v2b` --
-This is a long-reach drive design intended for widely-spaced Atlas probes.
-This design is obsolete but the "body" part and "rod" parts are used by
-subsequent designs.
-
-* `obsolete/drive-v2c` --
-This is a short-reach design originally intended to mount Atlas probes in a
-widely-spaced pattern. This design is obsolete.
-
 * `drive-close-short` -- This is a short-reach design with closely-spaced
 probe sites. This drive is in service (with Kevin-style clips; the M0.5
 screw-mount arms are obsolete). This can hold tungsten probes, NeuroNexus
@@ -74,7 +64,7 @@ probes, and Diagnostic BioChip probes (but not Atlas probes).
 
 * `drive-close-long` -- This is a long-reach drive with closely-spaced
 probe sites. This drive is in service. It is intended to hold Atlas probes
-using the same "rod" scheme as the "v2b" drive.
+using the same "rod" scheme as the obsolete "v2b" drive.
 
 
 Relevant auxiliary components are as follows:
