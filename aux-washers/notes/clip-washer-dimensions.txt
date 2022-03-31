@@ -1,0 +1,10 @@
+Test results from 8 Dec 2021:
+
+- Resin worked better than nylon.
+- 1.0 arms with 0.3 bumps and 0.8 arms with 0.5 bumps both worked.
+- Clearances in the front/back direction were excessive, but it still worked.
+  This was probably due to angled bumps engaging rounded key corners.
+- Washers were 1mm thick.
+
+...Provisional plan for future versions is 0.9 arms with 0.4 bumps, and
+perhaps 0.1mm less front/back clearance.

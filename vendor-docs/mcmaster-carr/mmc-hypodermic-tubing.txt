@@ -1,0 +1,9 @@
+Hypodermic tubing stock I've bought:
+
+89875k87	33ga	8/4	200/100		nn probe tip
+89935k95	27ga	16/10	400/250		nn probe shank
+89935k87	24ga	22/14	560/350		atlas probe shank
+89935k83	23ga	25/20	630/510		nn guide tube thin
+89935k89	22ga	28/21	710/530		nn guide tube thick
+89875k35	20.5ga	34/27	860/680		atlas guide tube
+89935k71	19ga	42/32	1070/810	poking tool
