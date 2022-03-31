@@ -74,17 +74,20 @@ using the same "rod" scheme as the "v2b" drive.
 
 Relevant auxiliary components are as follows:
 
-* `aux-probes` -- This folder contains CAD models of probes and CAD models
-of printable components for making mechanical mock-ups of probes.
+* `aux-cable-mounts` -- This folder contains cable mounts that replace the
+mounting clip of the Triad drive. These either hold "heavy flex" analog
+signal cables or probe-specific adapter boards (such as the DBC ZIF-clip
+boards).
 
 * `aux-clips` -- This folder contains CAD models of clips used to hold
 probes and guide tubes. Some are compatible with Kevin-style clip mounts,
 while others are intended for different mounting methods.
 
-* `aux-cable-mounts` -- This folder contains cable mounts that replace the
-mounting clip of the Triad drive. These either hold "heavy flex" analog
-signal cables or probe-specific adapter boards (such as the DBC ZIF-clip
-boards).
+* `aux-probes` -- This folder contains CAD models of probes and CAD models
+of printable components for making mechanical mock-ups of probes.
+
+* `aux-washers` -- This folder contains spacer "washers" used to raise the
+Triad drives above their default mounting locations.
 
 
 Drives not directly tied to the Triad Drive lineage:
