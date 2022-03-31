@@ -1,0 +1,12 @@
+From the email to Ali and Thilo:
+
+As far as I can tell, this was designed using a mixture of metric and
+imperial units. I stuck with metric units in the drawing to avoid confusion.
+
+The clamping screws are #2-56 socket-head screws at 1/2" and 5/8" length,
+and the screw holding the Triad post on to the arm is an M3 6mm button-head
+screw with hex drive. Both types of screw use a 5/64" hex key. The Triad
+post has a nominal diameter of 4mm (oversized for the round part and
+undersized for the square part), and the post that mounts the clamp itself
+seems to be 3/16" nominal diameter. The clamp needs to deform by up to
+0.2 mm when tightened.
