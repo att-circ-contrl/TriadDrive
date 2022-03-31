@@ -26,6 +26,7 @@ Top-level folders:
 * `drive-XXX` -- CAD files and notes specific to a given drive variant.
 * `notes` -- Assorted notes that apply to several different devices.
 * `procedures` -- Assorted SOPs that apply to several different devices.
+* `reference` -- Assorted reference material that isn't vendor documentation.
 * `vendor-docs` -- Vendor-provided documentation and datasheets.
 Under vendor copyright.
 
