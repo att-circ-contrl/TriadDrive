@@ -1,0 +1,34 @@
+Post-mortem on the v1 adapter and mount:
+
+
+- Guide block trenches need to be flared at the bottom to avoid catching on
+holes in the rods. Maybe flare at the top too.
+
+- Guide block rounded cutout needs to be 2mm higher, for full range of motion
+of the arms.
+
+- _Maybe_ make arms 1mm shorter, for easier tapping? Kevin made ones this
+long, though.
+
+- Carrier arms are slightly large. This seems to be resin tolerances rather
+than drawing issues, but they'll still be a very tight fit.
+
+
+
+- Posts have trouble seating in the adapter. The posts are slightly wide
+and the trench is slightly narrow. For Shapeways prototypes, adjust both.
+
+- Post base should be slightly longer than the clamp inset/clamp inset
+should be slightly deeper, so that the washer does not hold the post in
+place.
+
+- Mount arm-clamp needs to be a tighter fit around the post. Right now
+there's 0.2 mm clearance, and it can't tighten enough to grip with that,
+even with plastic flexing.
+
+- Threading exit holes in the crescent need to be 1/8" farther back, for
+longer threaded holes.
+
+
+
+This is the end of the file.
