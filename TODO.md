@@ -6,9 +6,6 @@
 
 ## Long-term to-do list:
 
-* Make a dedicated folder for obsolete projects/components and move relevant
-folders there.
-
 
 ## Abbreviated changelog:
 

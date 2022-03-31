@@ -25,6 +25,8 @@ Top-level folders:
 * `aux-XXX` -- CAD files and notes specific to a given auxiliary tool.
 * `drive-XXX` -- CAD files and notes specific to a given drive variant.
 * `notes` -- Assorted notes that apply to several different devices.
+* `obsolete` -- `aux`, `drive`, and other folders with devices or
+specifications that are no longer in service.
 * `procedures` -- Assorted SOPs that apply to several different devices.
 * `reference` -- Assorted reference material that isn't vendor documentation.
 * `vendor-docs` -- Vendor-provided documentation and datasheets.
@@ -51,16 +53,19 @@ folder or provided by external sources (usually Isaac).
 
 The lineage of Triad drive variants is as follows:
 
-* `drive-kevin` -- This is the initial Triad drive designed by Kevin for
-the Womelsdorf lab. There were two variants: the "old" variant had a 45mm
-long channel and the "new" variant had a 55mm long channel.
+* `drive-kevin` --
+This is the initial Triad drive designed by Kevin for the Womelsdorf lab.
+There were two variants: the "old" variant had a 45mm long channel for the
+arms and the "new" variant had a 55mm long channel.
 
-* `drive-v2b` -- This is a long-reach drive design intended for widely-spaced
-Atlas probes. This design is obsolete but the "body" part and "rod" parts
-are used by subsequent designs.
+* `obsolete/drive-v2b` --
+This is a long-reach drive design intended for widely-spaced Atlas probes.
+This design is obsolete but the "body" part and "rod" parts are used by
+subsequent designs.
 
-* `drive-v2c` -- This is a short-reach design originally intended to mount
-Atlas probes in a widely-spaced pattern. This design is obsolete.
+* `obsolete/drive-v2c` --
+This is a short-reach design originally intended to mount Atlas probes in a
+widely-spaced pattern. This design is obsolete.
 
 * `drive-close-short` -- This is a short-reach design with closely-spaced
 probe sites. This drive is in service (with Kevin-style clips; the M0.5
@@ -95,12 +100,6 @@ Drives not directly tied to the Triad Drive lineage:
 * `drive-unidrive` -- This is a proof-of-concept single-probe drive based
 on the same principles as the Triad drive but designed to be easier to
 manufacture.
-
-
-Obsolete auxiliary components:
-
-* `aux-drive-mounts-2021` -- These were replacement parts for clamps used
-when mounting the posts that mount the Triad drives.
 
 
 ## Remarks
