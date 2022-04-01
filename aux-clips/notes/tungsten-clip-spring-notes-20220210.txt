@@ -1,0 +1,4 @@
+Microscope measurements gave:
+
+- Spring is 0.25 mm thick.
+- Clearance between flats was 0.05 mm.
