@@ -1,0 +1,10 @@
+Relevant dimensions for the 2022 April Diagnostic BioChip probes:
+
+- Nominal probe OD is 200 microns. It's actually more due to polyimide.
+- There's a 5mm collar of 630 micron OD tubing.
+- The probes extend 50mm below the collar.
+- There's about 2mm-3mm of glue above the collar.
+- From the glue to the PCB, there's at least 30mm of thin flex.
+- (The full thin flex length from the _collar_ to the PCB is nominally 35mm.)
+- Thin flex width is less than 1mm. Exact dimensions unknown.
+- The PCB is 21x21 mm, with the top part narrowed for the ZIF clip.

@@ -39,12 +39,11 @@ disconnected from the heavy flex as-desired.
 * Diagnostic BioChip probes were ordered in 2022.
 
 These do not have flanges, but instead have a 5mm collar of hypodermic
-tubing for handling, and a 5mm extension of the wire substrate above the
-collar (also for handling).
+tubing for handling.
 
 The DBC probes do not connect to "heavy flex". Instead, they have their own
 ZIF-clip compatible adapter cards, which are connected to the probes using
-a short length of hair-thin flex. The adapter cards need to be mounted
+a short length of delicate thin flex. The adapter cards need to be mounted
 close to the probes and the ZIF-clips need to connect directly to the adapter
 cards.
 
