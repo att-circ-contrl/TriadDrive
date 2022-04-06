@@ -56,5 +56,14 @@ printing the only option. So far they've held up in use.
 * The "compat-630" EDM clips are very similar to the Kevin clips and are
 intended to hold 630 micron guide tubes and probe collars.
 
+* The "cnc-630" clips were intended to hold 630 micron guide tubes and
+probe collars and to be made using Proto Labs' CNC service.
+**Obsolete** - They ended up being too bulky and Proto Labs wouldn't
+machine the probe registration notches.
+
+* The "3dp-630" clips were intended to hold 630 micron guide tubes and
+probe collars and to be made using Proto Labs' stainless steel 3d printing
+service.
+
 
 _This is the end of the file._
