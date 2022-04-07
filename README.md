@@ -64,7 +64,7 @@ probes, and Diagnostic BioChip probes (but not Atlas probes).
 
 * `drive-close-long` -- This is a long-reach drive with closely-spaced
 probe sites. This drive is in service. It is intended to hold Atlas probes
-using the same "rod" scheme as the obsolete "v2b" drive.
+using the same "rectangular rod" scheme as the obsolete "v2b" drive.
 
 
 Relevant auxiliary components are as follows:
@@ -80,6 +80,10 @@ cables and connectors that the Triad drives and probes interface with.
 * `aux-clips` -- This folder contains CAD models of clips used to hold
 probes and guide tubes. Some are compatible with Kevin-style clip mounts,
 while others are intended for different mounting methods.
+
+* `aux-jig-atlas-long` -- This folder contains design files for tools for
+loading Atlas probes into long-reach drives (drives that use the "rectangular
+rod" system for holding probes).
 
 * `aux-probes` -- This folder contains CAD models of probes and CAD models
 of printable components for making mechanical mock-ups of probes.
