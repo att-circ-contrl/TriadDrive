@@ -1,6 +1,13 @@
 McMaster-Carr:
 
+(soft pads for the tweezers)
 86045K49	1/32" adhesive-backed food-grade silicone (get Shore 40A)
+86045K51	1/16" adhesive-backed food-grade silicone (get Shore 40A)
+86045K52	3/32" adhesive-backed food-grade silicone (get Shore 40A)
+
+(springs for the tweezers)
+1986K332	spring ss 1" len 0.188" OD 0.63 lbs/in
+1986K524	spring ss 1" len 0.18" OD 2.62 lbs/in
 
 
 
