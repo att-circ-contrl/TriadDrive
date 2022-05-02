@@ -63,7 +63,7 @@ machine the probe registration notches.
 
 * The "3dp-630" clips were intended to hold 630 micron guide tubes and
 probe collars and to be made using Proto Labs' stainless steel 3d printing
-service.
+service. **NOTE** - These are very difficult to hand-tap.
 
 
 _This is the end of the file._
