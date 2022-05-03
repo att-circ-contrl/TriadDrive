@@ -5,7 +5,7 @@
 This folder contains drawings and models for the probes used with the
 Triad drives.
 
-This is not a complete specification; that'sb beyond the scope of this
+This is not a complete specification; that's beyond the scope of this
 project. The intent is to provide enough information to allow the design of
 drives that are mechanically compatible with the probes.
 

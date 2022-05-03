@@ -1,0 +1,14 @@
+Parts for the Atlas probe mockups:
+
+- 89875k87  (8 thou / 0.2 mm hypodermic stock)
+
+There should be a small amount of this stock on-hand from making NN probe
+mockups (the needle tips).
+
+- 2271k1  (1 thou / 0.025 mm kapton film)
+- 2271k2  (2 thou / 0.05 mm kapton film)
+- 2271k3  (5 thou / 0.13 mm kapton film)
+
+The stiffener needs to be 0.2 mm thick. Use 2 thou film for the cable and
+bond 5 thou under it to stiffen. That said, the mockup 5 thou cables from the
+previous batch seemed to be a bit thick for the connectors.
