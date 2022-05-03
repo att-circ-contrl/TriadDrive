@@ -8,6 +8,9 @@ specifications that are no longer in active service.
 **NOTE** - The `v2b` drive is no longer in active service, but the "body"
 and rectangular "rod" parts from it are still used with other drive variants.
 
+**NOTE** - IGES files in these folders are likely saved as surfaces rather
+than as solids, which may cause peculiarities when importing them.
+
 ## Obsolete Drives
 
 * `drive-v2b` --
