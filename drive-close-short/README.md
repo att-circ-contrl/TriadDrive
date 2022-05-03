@@ -42,6 +42,9 @@ clamp.
 * The original version (from 2021-11-04, with Z-clips) didn't work; the
 clips would slide off of the guide tubes. The J-clips fixed this (from
 2021-11-18).
+* The "`triad-arms-ref-202203`" CAD file imported Isaac's arms for purposes
+of making mechanical drawings. These are not authoritative but are a good
+starting point. The DBC arms are the current version.
 * FIXME - As of 2022-04-21, I'm not sure either the 1pc or 3pc clamps will
 work (untested). The 1pc one might have difficulty grabbing the middle tube
 due to bowing, and the 3pc one may have difficulty grabbing the side tubes
