@@ -48,4 +48,14 @@ close to the probes and the ZIF-clips need to connect directly to the adapter
 cards.
 
 
+## CAD File Notes
+
+* The presently active CAD file is "`probe-models-2022.fcstd`".
+
+* The 2020 CAD file contains old models for NeuroNexus probes. The "sleeve"
+version was an alternate implementation that wasn't made; it can be ignored.
+The file has copies of the old Atlas models, but these were reconstructed
+from meshes instead of from the original solid models.
+
+
 _This is the end of the file._
