@@ -20,4 +20,12 @@ ZIF clips (and to provide strain relief). In both cases, the probe is
 connected to the heavy flex via a much smaller "thin flex" cable.
 
 
+## CAD Files
+
+* The "`atlas-flex-2020.fcstd`" CAD file contains a model of the thin-flex
+Atlas cable, and an assembly of these cables with the "carrier card" from
+the heavy-flex cable. The "carrier card" model is reconstructed from a mesh,
+rather than from the original solid model.
+
+
 _This is the end of the file._
