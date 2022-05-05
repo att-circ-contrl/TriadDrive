@@ -50,7 +50,7 @@ folder or provided by external sources (usually Isaac).
 
 ## Specific Designs
 
-The lineage of Triad drive variants is as follows:
+Active Triad drive variants are as follows:
 
 * `drive-kevin` --
 This is the initial Triad drive designed by Kevin for the Womelsdorf lab.
@@ -69,11 +69,6 @@ using the same "rectangular rod" scheme as the obsolete "v2b" drive.
 
 Relevant auxiliary components are as follows:
 
-* `aux-cable-mounts` -- This folder contains cable mounts that replace the
-mounting clip of the Triad drive. These either hold "heavy flex" analog
-signal cables or probe-specific adapter boards (such as the DBC ZIF-clip
-boards).
-
 * `aux-cabling` -- This folder contains documentation and models for
 cables and connectors that the Triad drives and probes interface with.
 
@@ -85,6 +80,15 @@ while others are intended for different mounting methods.
 loading Atlas probes into long-reach drives (drives that use the "rectangular
 rod" system for holding probes).
 
+* `aux-jig-nnex` -- This folder contains design files for the jig used to
+pre-load NeuroNexus probes into guide tubes. The same jig works with
+Diagnostic BioChip probes if the block holding the probe is shimmed with
+tape to raise it.
+
+* `aux-mounts-hflex` -- This folder contains cable mounts that replace the
+mounting clip of the Triad drive. These old the "heavy flex" analog signal
+cables used with Atlas and NeuroNexus probes.
+
 * `aux-probes` -- This folder contains CAD models of probes and CAD models
 of printable components for making mechanical mock-ups of probes.
 
@@ -92,7 +96,7 @@ of printable components for making mechanical mock-ups of probes.
 Triad drives above their default mounting locations.
 
 
-Drives not directly tied to the Triad Drive lineage:
+Drives not directly tied to the Triad Drive design:
 
 * `drive-unidrive` -- This is a proof-of-concept single-probe drive based
 on the same principles as the Triad drive but designed to be easier to

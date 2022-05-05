@@ -28,6 +28,10 @@ widely-spaced pattern. This design is obsolete.
 * `aux-drive-mounts-2021` -- These were replacement parts for clamps used
 when mounting the posts that mount the Triad drives.
 
+* `aux-v2x-tube-clamp` -- This is a guide tube clamp intended to replace the
+"foot block" scheme used by the "v2b" and "v2c" drives, holding ordinary
+non-flanged guide tubes.
+
 
 ## Other Notes
 

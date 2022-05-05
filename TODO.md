@@ -3,14 +3,15 @@
 
 ## Near-term to-do list:
 
-* Dig through the private "from isaac" folder and move tungsten arm models
-for the v2x drives to "cad-ext" in the relevant folders.
-
 
 ## Long-term to-do list:
 
 
 ## Abbreviated changelog:
+
+* 5 May 2022 --
+Release milestone with all relevant files from my old dev tree moved to the
+repository.
 
 * 4 May 2022 --
 Milestone with my old "cad" folder emptied out. Still need to deal with the
