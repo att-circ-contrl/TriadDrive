@@ -1,0 +1,38 @@
+[From 11 August 2021 notes.]
+
+- Test the fit on the girder first, but also with the girder hand-seated in
+  the body (for clearance with the side arms). Arms should move freely after
+  initial friction. Greasing is okay.
+
+- Drill the hole wider (to 90% #0-80 rather than 80%).
+- Tap it and clear chips.
+- Put a drop of oil on the hole.
+- Test it with a 1/4" #0-80 screw. If there's _any_ friction at any point,
+  tap it again. Repeat as necessary.
+
+- Line up all three arms in your work area so that you know which go on which
+  threaded rods. Check with the girder if unsure. The girder's flat end is at
+  the bottom of the drive.
+
+- Make sure the drive rods are free of dust.
+- Put a drop of oil on the end of a drive rod.
+- Tell the rod to advance upwards 10mm.
+- When it starts this, hold the rod near the end to keep it from wobbling.
+  Greased gloves help (they'll already be greasy, don't worry).
+- Carefully orient the arm and feed it on to the rod. If it's cross-threaded,
+  let go _immediately_ and hit the "stop" button. Advance down to unthread.
+- This is easier if you have two people, so that one person can manually hold
+  the "advance up/down" buttons instead of telling it to auto-advance.
+
+- After feeding all three arms on to the end of the drive, add the girder and
+  then reassemble the drive foot and body.
+- Feed the arms back down to the bottom and set the location to 50mm.
+- Feed the arms up to 5mm. Add oil to the threaded rods if they look dry at
+  any point of this. Better to have too much oil than to have arms binding.
+- Feed the arms back down to loading positions. They need to be staggered so
+  that the screws on all of them are accessible (e.g. 35/40/45 mm).
+- If the drive has enough oil to actually be dripping, blot the excess with
+  paper towel. Check very carefully that no paper fibers are fouling threads.
+
+
+(This is the end of the file.)
