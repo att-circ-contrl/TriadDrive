@@ -1,0 +1,34 @@
+Miscellaneous Triad drive specifications:
+
+- Probes need to be positioned as close as possible to the wall of the
+  chamber (on the drive side). So, the version "b" foot was bad, and the
+  guide tube holder for the version "c" drive was also bad. Ideally no part
+  of the drive projects into the chamber (just the guide tubes).
+
+- Having orange-wedge profiles and having limited projection in _front_ of
+  the drives helps with packing multiple drives close together, but I haven't
+  gotten much user feedback about that.
+
+- The foot _height_ should be kept to a minimum, as it represents wasted
+  probe length. The chamber is 15-25 mm deep as well (more wasted length).
+
+- Having probes close together is good. 1mm spacing is ideal; 2mm is still
+  helpful.
+
+- Being able to independently remove guide tubes while keeping the others
+  fixed is important. Otherwise it's hard to guarantee that a probe is
+  reaching the same target even though the probe itself remains fixed.
+
+- Metal parts are strongly discouraged. Bridging guide tubes together risks
+  adding noise, and even per-guide-tube clips may add noise. Ring terminals
+  for connecting reference lines were discouraged as well, since debugging
+  noise usually involves moving the reference around (easier to do with
+  alligator clips to guide tubes).
+
+- The bottom of the drive needs to be sterilizable. Blood will come up the
+  guide tubes on rare occasions. It should at least be _cleanable_; Delrin
+  parts can only tolerate alcohol, and alcohol destroys nylon 3d prints.
+
+
+...Life will get much easier after finding an EDM vendor that can make
+Kevin-style clips.

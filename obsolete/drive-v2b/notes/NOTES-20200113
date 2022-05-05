@@ -1,0 +1,6 @@
+Design flaw: The thick step at the bottom of the fork obstructs the last 2mm
+of travel of the left and right arms.
+
+The fix is to make it a 2-step step, matching the rod guide arm thickness
+for the part where the arms overlap, and then reaching full thickness below
+that.
