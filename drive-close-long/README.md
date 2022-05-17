@@ -13,6 +13,11 @@ and fork are new.
 
 This design is intended to work with Atlas probes.
 
+A variant of this drive uses clip-based arms instead of rods, omitting the
+rods and upper guide block. This is intended to work with tungsten probes
+using the same hole pattern as Atlas probes, and to work with Diagnostic
+BioChip probes using the Atlas hole pattern.
+
 
 ## Notes
 
