@@ -3,6 +3,8 @@
 
 ## Near-term to-do list:
 
+* Make a model of the Kevin drive's tungsten clips.
+
 
 ## Long-term to-do list:
 
