@@ -5,8 +5,10 @@
 
 * Make a model of the Kevin drive's tungsten clips.
 
-* Make printable versions of the long-reach Atlas arms with tighter
+* Make printable versions of the long-reach Atlas silicon arms with tighter
 clearances.
+
+* Make proxy models of the Atlas silicon and tungsten long-reach setups.
 
 
 ## Long-term to-do list:
