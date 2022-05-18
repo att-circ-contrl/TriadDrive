@@ -5,6 +5,9 @@
 
 * Make a model of the Kevin drive's tungsten clips.
 
+* Make printable versions of the long-reach Atlas arms with tighter
+clearances.
+
 
 ## Long-term to-do list:
 

@@ -29,5 +29,12 @@ heavy flex mounted on the drives.
 * Mounting the Atlas probes is non-trivial, because they break if you look
 at them funny and the thin-flex connected to them isn't much stronger.
 
+* Arms with tight clearances should be oriented with their long axes in the
+Z direction for 3d printing. This gives 0.05 mm tolerances on the other axes.
+
+* **FIXME** - As of 18 May 2022, the Atlas silicon arms have wide clearances.
+This results in wobble. The Atlas tungsten arms have tighter clearances; this
+should be back-ported to the silicon arms if the tight-clearance arms work.
+
 
 _This is the end of the file._
