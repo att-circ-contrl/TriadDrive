@@ -1,0 +1,8 @@
+Design guidelines for "normal resolution" SLA ("abs-like" works well):
+
+- max 10x10x10in (about 250x250x250 mm)
+- layers 4 thou (0.10 mm)
+- features 10 thou XY, 16 thou Z (0.25 mm and 0.4 mm)
+- minimum wall 10 thou (0.25 mm)
+- minimum hole 25 thou (0.65 mm)
+- tolerances 2 thou (0.05mm) XY, 5 thou (0.13 mm) Z, plus 0.1%.

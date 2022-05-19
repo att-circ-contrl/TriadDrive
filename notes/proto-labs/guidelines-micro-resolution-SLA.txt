@@ -1,0 +1,8 @@
+Design guidelines for "micro-resolution" SLA:
+
+- max 5x5x2.5in (about 120x120x60 mm)
+- layers 1 thou (0.025 mm)
+- features 2.5 thou XY, 8 thou Z (0.05 mm and 0.2 mm)
+- minimum wall 2.5 thou (0.06 mm)
+- minimum hole 15 thou (0.4 mm)
+- tolerances 2 thou (0.05mm) XY, 5 thou (0.13 mm) Z, plus 0.1%.
