@@ -3,6 +3,10 @@ things this means objects can't have dovetails (at least not sharp ones).
 
 Minimum size is 1/4" by 1/4" by about 0.04" (so, 7x7x1 mm).
 
+Tolerance is nominally 5 thou (0.13 mm). In practice it's slightly worse and
+they usually err on the side of leaving extra material instead of carving
+deeper.
+
 They seem to only machine from orthogonal directions (XYZ axis directions),
 and usually not from all 6 directions on any given piece. This means certain
 concave corners that could be sharp will be rounded if they chose to machine
