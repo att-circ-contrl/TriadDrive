@@ -6,6 +6,10 @@ This folder contains two different drive designs: A variant of the "v2b"
 design intended for close-spaced Atlas probes, and a variant of the
 close-spaced short-reach design intended for Diagnostic BioChip probes.
 
+**NOTE** - The "Atlas" drive uses the "Atlas" sites in the site diagram
+(2.0mm spacing), and the "DBC" drive uses the "NeuroNexus" sites in the site
+diagram (1.0mm/1.5mm spacing).
+
 
 ## Atlas Close-Spaced Long-Reach Drive
 
