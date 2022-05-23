@@ -12,6 +12,9 @@ clearances.
 
 * Make revised hflex cable mounts that use the DBC mounts' tolerances.
 
+* Make a detailed explanation of how to compute bending strain, per my
+notes from 23 May 2022 p2. Or just scan that page.
+
 
 ## Long-term to-do list:
 
