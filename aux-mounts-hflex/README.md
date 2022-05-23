@@ -25,5 +25,9 @@ sometimes not enough to securely clamp the mounting post. A shallower trench
 with 0.3mm of clearance would allow the mounting screws to be tightened
 further.
 
+* **To fix:** Per Adam's request, Kevin-style clamping is needed to securely
+hold the drive to its post. One side of the clamp contacts the drive, and
+the other side flexes just enough during tightening to clamp.
+
 
 _This is the end of the file._

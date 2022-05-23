@@ -10,6 +10,8 @@ clearances.
 
 * Make proxy models of the Atlas silicon and tungsten long-reach setups.
 
+* Make revised hflex cable mounts that use the DBC mounts' tolerances.
+
 
 ## Long-term to-do list:
 
