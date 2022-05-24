@@ -15,6 +15,10 @@ clearances.
 * Make a detailed explanation of how to compute bending strain, per my
 notes from 23 May 2022 p2. Or just scan that page.
 
+* Fix broken object body links for close short arms and close long atlas
+arms. They should point to the version before the marker, to not be sensitive
+to the number of marker dots.
+
 
 ## Long-term to-do list:
 
