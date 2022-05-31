@@ -9,6 +9,13 @@ McMaster-Carr:
 1986K332	spring ss 1" len 0.188" OD 0.63 lbs/in
 1986K524	spring ss 1" len 0.18" OD 2.62 lbs/in
 
+(screws for the tweezers, the hold-downs, and the base plate)
+91770A011	#4-40 truss-head 5/8" stainless steel screws (hold-downs)
+91770A148	#6-32 truss-head 1/2" stainless steel screws (tweezers)
+91770A150	#6-32 truss-head 5/8" stainless steel screws (base plate)
 
 
 Digikey:
+
+(clip for heavy flex)
+RPC1190-ND	Manufacturer part number FCWSF-29-19.
