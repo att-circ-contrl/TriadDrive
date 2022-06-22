@@ -62,9 +62,17 @@ probe sites. This drive is in service (with Kevin-style clips; the M0.5
 screw-mount arms are obsolete). This can hold tungsten probes, NeuroNexus
 probes, and Diagnostic BioChip probes (but not Atlas probes).
 
-* `drive-close-long` -- This is a long-reach drive with closely-spaced
-probe sites. This drive is in service. It is intended to hold Atlas probes
-using the same "rectangular rod" scheme as the obsolete "v2b" drive.
+* `drive-close-long` -- This is a long-reach drive with the same
+closely-spaced sites as the short-reach drive. This drive is in service.
+Probes are held using Kevin-style clips. Guide tubes are held by a "foot"
+that extends into the chamber. This drive is mainly used with Diagnostic
+BioChip probes, which have a mechanical conflict between the probes and
+guide tubes that limits range with the short-reach drives.
+
+* `drive-close-atlas` -- This is a long-reach drive that is intended to hold
+Atlas probes using the same "rectangular rod" scheme as the obsolete "v2b"
+drive. This drive provides close-spaced probe sites with somewhat wider
+spacing than the other close-spaced drives.
 
 
 Relevant auxiliary components are as follows:
