@@ -1,4 +1,4 @@
-# Close-Spaced Long-Reach Drive
+# Close-Spaced Drive for Atlas Probes
 
 ## Overview
 
