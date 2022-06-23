@@ -45,7 +45,7 @@ batch, one version of any given arm should be the right thickness.
 Z direction for 3d printing. This gives 0.05 mm tolerances on the other axes
 when using Proto Labs' "micro-resolution" printing process.
 
-* As of June 2022, the "wide" variants of the arms work best in the drives.
+* As of June 2022, the "thick" variants of the arms work best in the drives.
 
 
 _This is the end of the file._
