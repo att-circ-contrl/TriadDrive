@@ -1,0 +1,11 @@
+Notes for tapping M1 threads in 3d printed steel clips:
+
+- As soon as there's _any_ resistance (about half a turn of cutting), back
+  off half a turn to a full turn.
+- If there's still resistance when resuming after that, back all the way
+  out and clear chps with canned air.
+
+This was for relatively shallow holes (1mm deep).
+
+This should work for brass, aluminum, and 3d printed 316 steel. It may not
+work with hard steel (heat-treated printed 17PH, machined steel parts, etc).

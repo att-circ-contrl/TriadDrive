@@ -1,0 +1,26 @@
+Additional notes regarding small screws:
+
+- McMaster-Carr stocks #00-90 and #000-120 screws, which may be useful
+  alternatives to M1.
+
+
+- M1 is available as slotted drive only.
+- We can get flat-head M1 down to 3 mm, and cheese-head M1 down to 2 mm.
+
+
+- #00-90 has a nominal shank diameter of 1.19 mm.
+- I don't think this is a useful size when #000 is also available.
+- By comparison, #0-80 has a nominal shank diameter of 1.52 mm.
+
+
+- #000-120 has a nominal shank diameter of 0.86 mm.
+- Flat-head and filister-head slotted and go down to 3/32" (2.4 mm).
+- Button-head "torx plus" (IP1/T1) goes down to 1/16" (1.6 mm).
+- (Pan-head torx only goes to 1/8".)
+
+
+(Precision screwdriver that takes 1/4" hex bits is:  2583N11)
+(IP1 torx-plus 1/4" hex bit is:  54305A41)
+
+
+(This is the end of the file.)
