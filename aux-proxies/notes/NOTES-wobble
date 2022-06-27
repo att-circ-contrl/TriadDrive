@@ -1,0 +1,10 @@
+Wobble in the proxies is bad, as this produces uncertainty about where the
+guide tubes are actually positioned.
+
+A permanent pitch due to the mechanical conflict with the mounting arms is
+bad, as it introduces large positioning errors.
+
+The slot holding the mounting rod needs to be a very close fit. If it isn't,
+errors are caused by translation (relatively small as the distance is low),
+and by roll (large errors due to the large distance). To reduce roll, the
+height of the proxy can be extended as well (longer/deeper mounting hole).

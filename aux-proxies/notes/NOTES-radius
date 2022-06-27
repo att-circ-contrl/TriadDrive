@@ -1,0 +1,7 @@
+The nominal radius of the mounting arms that hold the drive mounting posts is
+1/4" (6.35mm). The Kevin drives have a nominal circle radius of 6.5mm, as far
+as I can tell.
+
+These still conflict with the actual arms (oddly, the proxies conflict more
+than the real drives do). So, the circle radius for the base cutout needs to
+be at least 7mm.
