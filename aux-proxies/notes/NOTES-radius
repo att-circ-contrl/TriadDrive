@@ -5,3 +5,7 @@ as I can tell.
 These still conflict with the actual arms (oddly, the proxies conflict more
 than the real drives do). So, the circle radius for the base cutout needs to
 be at least 7mm.
+
+NOTE - I made the circle radius 7.5mm, and pushed the flats at the back
+forward by 0.5mm. This does not match the real drive's geometry, but should
+guarantee clearance around the mounting arm.
