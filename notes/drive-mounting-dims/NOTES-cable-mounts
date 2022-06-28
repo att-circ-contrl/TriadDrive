@@ -1,0 +1,11 @@
+Cable/board mounts should have clearance between themselves and the drive,
+and around the sides of the mounting post. Only the back of the post contacts
+the board mounts.
+
+The board mount serves the same purpose as the drive mount clip: holding the
+post against the drive. The slot for the post in the drive is precisely
+machined to match the post dimensions (this was Kevin's work; we can't
+easily duplicate that).
+
+The board mount should not flex, as that allows the drive to flex (mostly
+in the yaw direction). Print board mounts out of a very rigid material.
