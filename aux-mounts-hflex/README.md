@@ -13,21 +13,10 @@ drive to its mounting post).
 ## Notes
 
 * The single-slot sides anchor the heavy flex cables using a 5/16" #0-80
-flat-head screw. The two-slot sides use a 7/16" #0-80 flat-head screw.
+flat-head screw. The two-slot sides use a 3/8" #0-80 flat-head screw.
 
-* Be careful installing the screws. There's only about 1mm of threaded
+* Be careful installing the screws. There's only about 2mm of threaded
 area, and it's easily stripped.
-
-* **To fix:** The trench at the back of the drive needs to be shallower
-(optionally recessing the body inset further as well). Right now there's
-about 0.1mm of clearance between the mount and the Triad drive, which is
-sometimes not enough to securely clamp the mounting post. A shallower trench
-with 0.3mm of clearance would allow the mounting screws to be tightened
-further.
-
-* **To fix:** Per Adam's request, Kevin-style clamping is needed to securely
-hold the drive to its post. One side of the clamp contacts the drive, and
-the other side flexes just enough during tightening to clamp.
 
 
 _This is the end of the file._
