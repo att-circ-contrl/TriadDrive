@@ -1,1 +1,18 @@
-Use the "wide"/"thick" variants of the arms to avoid wobble.
+Arms that aren't wide enough will wobble (yaw) when driven. This can be
+enough to cause conflict between probes or to endanger Atlas probes.
+
+Arms with trenches that are too wide will jam on the girder if they tilt
+(pitch) for any reason. As soon as they tilt a small amount, friction
+increases and they tilt more. This mostly happens with the middle arm.
+
+
+
+Use the "wide"/"thick" variants of the arms to avoid wobble. These have arm
+widths of 2.90 mm / 2.35 mm.
+
+Use the FIXME variants of the arms to avoid jamming. These have trench
+widths of FIXME mm.
+
+
+
+(This is the end of the file.)
