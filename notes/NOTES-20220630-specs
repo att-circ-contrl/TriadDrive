@@ -1,0 +1,15 @@
+Additional design requirements/notes:
+
+- While being able to remove guide tubes individually is useful, having
+a layout with minimum vertical space (for maximum DBC probe reach) is more
+useful. Hence the "1pc" guide tube clamp variant.
+
+- Adam reports that it's useful to be able to tighten the screws holding the
+Kevin clips to the arms without removing the arms. These screws can come
+loose during use. It's hard to tighten these on 45 degree arms.
+
+- Having arm and guide tube holder sets that are custom-tailored to a
+specific experiment's positions is acceptable.
+
+
+(This is the end of the file.)
