@@ -1,0 +1,81 @@
+Unsorted notes from the 7 July 2022 loading tests (and earlier):
+
+Procedure:
+
+- Wear a loupe.
+- Mount the Triad drive face-up on the horizontal rod on the mounting stand.
+- Install guide tubes.
+- Move the middle arm high (high enough for the probe tip to be clear of the
+  guide tube with space to spare).
+- Move the side arms about 5mm below the middle arm.
+- Clamp the rod into the jig.
+- Lift the probe out of its case and grab the flange with the big-pad
+  tweezers. The big pad will be on the bottom in the jig. The edge of the
+  tweezers should line up with the top of the flange (thin flex edge). The
+  flange hole area should be clear (don't clamp that).
+- Install the probe in the jig. Clamp the tweezers down first, and move the
+  heavy flex second (thin flex can be bent to angle the heavy flex).
+- Nudge the tweezers (after clamping them) to line up the flange hole.
+- Screw the flange to the rod.
+- NOTE - For red and yellow, tighten the flange fully. For blue, don't.
+- Keeping the thick tweezers in place, turn the jig around, hold the rod and
+  flex with your left hand, undo and pull back the rod clip, and open the
+  flex clip.
+- Grab the tweezers with your right hand and have a helper undo and pull back
+  the tweezer clip. This can be done solo if the tweezers are also held with
+  the left hand, but holding three things with one hand is tricky.
+- Shift the left hand to securely grab the rod and heavy flex.
+- Lift the assembly up and set it into the drive.
+- NOTE - For the blue rod, don't rotate the assembly; access it from the
+  front instead of the back. Rotate the Triad drive stand to allow access
+  to the blue side before starting.
+- Have an assistant hold the heavy flex.
+- Move the rod and tweezers together so that the rod is aligned with the
+  M1 hole on the drive arm.
+- Have an assistant hold the tweezers and install the M1 screw, or else
+  hold the heavy flex and tweezers and have an assistant install the screw.
+- Wearing the loupe, sight along the probe shank towards the guide tube.
+- Have an assistant slowly advance the drive while manually noodling the
+  probe tip into alignment with the guide tube using gentle pressure on the
+  tweezers. This will move the screw even if the screw is still tight.
+- When the probe tip is close to entering, ask that the speed of the drive
+  be reduced.
+- When the active area of the probe tip (3mm) is inside the guide tube ask
+  that the speed of the drive be returned to normal.
+- When several mm of the inactive probe shank are inside the guide tube,
+  stop driving, release the tweezers, and loosen the flange screw half a
+  turn.
+- Resume driving. The probe mounting will be compliant and self-adjust to
+  align the shank with the guide tube.
+- NOTE - It's impossible to access the blue probe's mounting screw when it's
+  in the drive. It has to be loosened in the jig and mounted while loose.
+  This makes it much harder to manually line up the probe with the guide
+  tube.
+- When the probe is far enough down for the heavy flex to be mounted, mount
+  the heavy flex. The order matters here: When the yellow probe is installed
+  its flex gets mounted on the blue side. Then the red probe is installed
+  and its flex is mounted on the inner mount on the red side, followed by
+  transferring the yellow probe's flex to the outer mount on the red side.
+  Finally the blue probe is installed and its flex is mounted on the blue
+  side.
+- Keep the red and yellow probes within 3mm of each other vertically to keep
+  their flex cables overlapping. It's not catastrophic to cross them, but
+  it's still better not to.
+
+
+Things to change:
+
+- In the jig, widen the trench so that we can grab the flange higher up
+  (towards the thin flex) and avoid the silicon shank.
+- If possible, mount the blue probe on the other side of its guide rod,
+  moving the rod location. This makes the screw accessible. We'll need a
+  mirror-flipped jig to set up that rod (this is fine).
+- Add more clearance between the rods and the fork's vertical post. As-is the
+  middle rod was scraping unless nudged.
+- Move the bottom of the guide block up 2mm-3mm so that R/Y/B dots on the
+  drive are visible.
+- Clips that hold the heavy flex at the sides of the motor would remove the
+  need for "here, hold this".
+
+
+(This is the end of the file.)
