@@ -5,10 +5,16 @@ Feature requests from the 7 July 2022 tests:
   mounting that probe at 30 degrees instead of 45 degrees so that the screw
   is accessible from across the drive.
 
+(Update: Confirmed that the blue flange screw isn't accessible, and that with
+30 degree arms it probably would be.)
+
 - Shorten the rods by 30mm to avoid conflict with the headpost and frame.
   NOTE - This may make it difficult to grab the rod off of the jig. The rod
   can be a bit longer than this or the jig can be shorted so that the rod
   can still project past the end for pickup.
+
+(Update: Confirmed that 30mm shorter is okay with the existing jig, with
+about 10mm overhang. 25mm shorter (15mm overhang) is probably better.)
 
 
 (This is the end of the file.)
