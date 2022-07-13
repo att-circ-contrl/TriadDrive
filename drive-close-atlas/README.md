@@ -31,6 +31,11 @@ heavy flex mounted on the drives.
 * Mounting the Atlas probes is non-trivial, because they break if you look
 at them funny and the thin-flex connected to them isn't much stronger.
 
+* With a plastic foot, *the side guide tube mounts deflect*, pinching off
+the middle channel and moving each guide tube inwards by about 0.4mm. The
+probe mounts have enough compliance to tolerate this, but it's very much
+not an ideal situation.
+
 
 ## Clearance and 3D Printing Notes
 

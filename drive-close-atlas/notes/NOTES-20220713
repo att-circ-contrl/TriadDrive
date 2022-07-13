@@ -1,0 +1,19 @@
+From 13 July 2022 bench tests:
+
+- The side guide tube mounts are deflecting inward when tightened, pinching
+off the middle channel.
+
+- Guide tubes move inward by about 0.4mm. The probe mounts have enough
+compliance to tolerate this, but it's very much not an ideal situation.
+
+- Machining the foot out of PEEK probably won't fix this, as the PEEK clips
+bow when tightened and are about the same thickness.
+
+- Machining the foot, or the bottom of the foot, out of steel would probably
+work but has its own problems.
+
+- The deflection also causes a discrepancy between the model's position for
+the probe sites and the actual position.
+
+
+(This is the end of the file.)
