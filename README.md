@@ -93,12 +93,21 @@ pre-load NeuroNexus probes into guide tubes. The same jig works with
 Diagnostic BioChip probes if the block holding the probe is shimmed with
 tape to raise it.
 
+* `aux-mounts-dbc` -- This folder contains cable mounts that replace the
+mounting clip of the Triad drive. These hold the ZIF-clip connector boards
+used with the 2022 Diagnostic BioChip probes.
+
 * `aux-mounts-hflex` -- This folder contains cable mounts that replace the
-mounting clip of the Triad drive. These old the "heavy flex" analog signal
+mounting clip of the Triad drive. These hold the "heavy flex" analog signal
 cables used with Atlas and NeuroNexus probes.
 
 * `aux-probes` -- This folder contains CAD models of probes and CAD models
 of printable components for making mechanical mock-ups of probes.
+
+* `aux-proxies` -- This folder contains printable simplified proxy models
+of drives and associated hardware. These are stencils intended to be used on
+the mounting frame to check drive setups without needing to fully configure
+drives.
 
 * `aux-washers` -- This folder contains spacer "washers" used to raise the
 Triad drives above their default mounting locations.

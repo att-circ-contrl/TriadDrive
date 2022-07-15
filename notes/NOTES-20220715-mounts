@@ -1,0 +1,10 @@
+The mounting clips and cable mounts that hold the Triad drives to their
+mounting posts should be secured with hex-drive screws, not Phillips screws.
+
+Phillips screws require a lot of axial force to keep the screwdriver securely
+seated, which will move the drive. Hex-drive screws don't need any axial
+force (just torque).
+
+I've been following Kevin's lead and using socket-head screws and washers
+for this. Button-head screws are available but have much less surface area,
+so they'd still need washers (no advantage).
