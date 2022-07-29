@@ -115,6 +115,10 @@ Triad drives above their default mounting locations.
 
 Drives not directly tied to the Triad Drive design:
 
+* `drive-compact` -- This is a single-probe miniature manual drive intended
+to be arrayed inside the chamber. This is a more manufacturable variant of
+the 2018 "semi-chronic" drive concept.
+
 * `drive-unidrive` -- This is a proof-of-concept single-probe drive based
 on the same principles as the Triad drive but designed to be easier to
 manufacture.
