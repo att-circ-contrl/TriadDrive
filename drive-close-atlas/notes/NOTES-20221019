@@ -1,0 +1,14 @@
+Problems reported:
+
+- The screw on the middle probe can conflict with the ridge on the foot.
+This has already been narrowed in CAD to fix that problem.
+
+- The 3d printed guide tube arms deflect. The side ones deflect symmetrically
+and are well below the lowest probe flange location, so this is tolerable,
+but the middle arm deflects by up to 0.5mm as well. This puts the guide tube
+out of alignment with the probe close to where the probe is held. This
+deflection took time to happen, and was made worse by loading only one side
+tube (the deflected side tube arm pushed the middle guide tube, adding stress
+to the middle tube's arm).
+
+- Proto Labs can machine metal versions of the foot as-is, if necessary.
