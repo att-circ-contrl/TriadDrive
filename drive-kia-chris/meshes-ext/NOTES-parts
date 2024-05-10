@@ -1,0 +1,25 @@
+As far as I can tell from photographs and invoices and datestamps, the parts
+symlinked here and listed below were the ones in service in 2023/2024. There
+were many versions of the files, so misidentification is possible:
+
+
+SLEVES.stl  - Drive body sleeve.
+
+foot.stl  - Long-reach foot.
+Clamp_Merged.stl  - Guide tube clamp for the front of the foot.
+Clamp_Middle.stl  - Guide tube clamp for the rear of the foot.
+
+armLat_01.stl - Lower L/R arms used with Kevin-style metal clips.
+(No middle arm with Kevin clips?)
+
+ARM_UP_LAT_04.stl - Lower L/R arms used with plastic clips.
+middle_arm_02.stl - Lower middle arm used with plastic clips.
+
+Arm_Lat_clamps_02.stl - Plastic clips used with L/R arms.
+side_clamp_01.stl - Plastic clip used with middle arm (FIXME - unconfirmed).
+
+Arm_LR.stl - Upper L/R arm. (FIXME - Threading is backwards?)
+(I can't find the middle upper arm.)
+
+
+(This is the end of the file.)
