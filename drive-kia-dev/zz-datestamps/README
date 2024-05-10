@@ -1,0 +1,6 @@
+Kia made many different versions of his parts, and the archive in this
+project didn't preseve datastamps. Here are the results of running "ls -l"
+and "ls -lt" on his top-level directory and his "all STL" directory.
+
+This should give a rough indication of which parts were in use in his
+final setup (the most recent iteration of any given file).
