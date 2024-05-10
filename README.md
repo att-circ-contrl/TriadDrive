@@ -74,6 +74,11 @@ Atlas probes using the same "rectangular rod" scheme as the obsolete "v2b"
 drive. This drive provides close-spaced probe sites with somewhat wider
 spacing than the other close-spaced drives.
 
+* `drive-kia-dev` -- Modified long-reach drives intended to work with
+Diagnostic Bio-Chip probes, developed by one of our postdocs. This folder
+contains his development tree (Autodesk CAD files, STL meshes, and gcode
+for the printer he used).
+
 
 Relevant auxiliary components are as follows:
 
