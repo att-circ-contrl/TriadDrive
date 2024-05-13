@@ -26,6 +26,13 @@ plastic.
 
 Unsorted notes:
 
+* The mockup shows the drive foot reaching into the chamber, but the other
+way of using these is to use stand-offs on the mounting post to raise the
+drive so that the drive foot is above the chamber. This gives access to
+sites next to the chamber wall without having to have the drive reach across
+the entire chamber. The mounting frame photograph illustrates this
+configuration.
+
 * There are many incremental variants of the STL files. The best way to tell
 which ones are the final ones is to look at the datestamps (in the
 `zz-datestamps` folder in the `drive-kia-dev` folder).
