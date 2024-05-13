@@ -22,5 +22,18 @@ to sites near the side of the chamber.
 holes. This solved the durability problem with holes that were threaded in
 plastic.
 
+## Notes
+
+Unsorted notes:
+
+* There are many incremental variants of the STL files. The best way to tell
+which ones are the final ones is to look at the datestamps (in the
+`zz-datestamps` folder in the `drive-kia-dev` folder).
+
+* Kia's STL files and my IGES files all have varying coordinates between
+parts. I've arranged everything in the mockup and re-exported it to the
+`exported` folder to try to get everything into a consistent coordinate
+frame.
+
 
 _This is the end of the file._
